@@ -2,6 +2,17 @@ aid: alexandria-real-estate-equities
 url: https://github.com/api-evangelist/alexandria-real-estate-equities
 name: Alexandria Real Estate Equities
 type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://www.are.com/favicon.ico
 tags:
   - Real Estate
