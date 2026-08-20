@@ -15,6 +15,12 @@ accessModel:
   method: derived
 image: https://www.are.com/favicon.ico
 tags:
+  - Real-Estate
+  - Life Sciences
+  - REIT
+  - Commercial Real Estate
+  - Biotechnology
+tags_raw:
   - Real Estate
   - Life Sciences
   - REIT
