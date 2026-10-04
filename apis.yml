@@ -26,7 +26,7 @@ accessModel:
   method: derived
 image: https://www.are.com/favicon.ico
 tags:
-  - Real-Estate
+  - Real Estate
   - Life Sciences
   - REIT
   - Commercial Real Estate
@@ -37,6 +37,7 @@ tags_raw:
   - REIT
   - Commercial Real Estate
   - Biotechnology
+  - Real-Estate
 description: Alexandria Real Estate Equities is an urban office REIT and the leading owner, operator, and developer of life science, agtech, and technology campuses in AAA innovation cluster locations across the United States. The company partners with biotechnology, pharmaceutical, agtech, and technology firms to provide laboratory and office space, venture investments, and thought leadership. Alexandria Real Estate Equities does not currently publish a public developer API or documentation portal.
 created: '2026-05-04'
 modified: '2026-05-04'
